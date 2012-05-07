@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  time: 2012-05-02 14:02:13
+  speaker: MyString
+  title: MyString
+
+two:
+  time: 2012-05-02 14:02:13
+  speaker: MyString
+  title: MyString
